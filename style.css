@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+.topnav a{
+    text-decoration: none;
+    font-size: 23px;
+    font-family: calibri;
+    color: rgb(230, 201, 164);
+    padding-left: 15px;
+    padding-right: 25px;
+}
+.topnav{
+    background-color: darkblue;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.topnav a:hover{
+    padding: 15px 25px 15px 15px;
+    background-color: rgb(15, 15, 187);
+    color: cornsilk;
+}
+.active{
+    padding: 15px 25px 15px 15px;
+    background-color: rgb(167, 53, 11);
+}
